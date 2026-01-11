@@ -28,7 +28,7 @@ Each time the program runs, the story changes depending on what the user enters.
 # Run the Program (If you don't installed python yet, download and install python first)
 1. Clone this Project to your pc.(Copy & Paste this code on CMD or terminal and run)
 
-         git clone git@github.com:BHNKCG/madlibs_game_in_python.git
+         git clone [git@github.com:BHNKCG/madlibs_game_in_python.git](https://github.com/BHNKCG/madlibs_game_in_python.git)
 2. Navigate into the project folder(Before same process on same CMD or terminal)
     
          cd madlibs_game_in_python
