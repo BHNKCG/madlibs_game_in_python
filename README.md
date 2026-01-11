@@ -13,6 +13,7 @@ The program prompts the user to enter:
    * A place
    * An object
    * An emotion
+
 All user inputs are stored in variables.
 A story template is created using f-strings.
 The final story is printed to the console using the user’s inputs.
