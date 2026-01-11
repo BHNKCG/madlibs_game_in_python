@@ -34,4 +34,4 @@ Each time the program runs, the story changes depending on what the user enters.
          cd madlibs_game_in_python
 3. Run the Program(Before same process on same CMD or terminal)
    
-         main.py 
+         python main.py 
